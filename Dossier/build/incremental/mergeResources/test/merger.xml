@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/instrumentTest/res" />
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/rs/test" />
+    </dataSet>
+
+</merger>

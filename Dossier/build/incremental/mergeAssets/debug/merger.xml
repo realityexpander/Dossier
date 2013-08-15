@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/spawrks/Desktop/DossierProject/Dossier/src/main/assets" />
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/spawrks/Desktop/DossierProject/Dossier/src/debug/assets" />
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/debug/assets" />
     </dataSet>
 
 </merger>

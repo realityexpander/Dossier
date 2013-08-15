@@ -6,4 +6,8 @@
     <string name="title">Welcome to my Dossier.</string>
     <string name="nameLabel">Name:</string>
     <string name="nameData">unknown</string>
+    <string name="ageLabel">Age:</string>
+    <string name="ageData">unknown</string>
+    <string name="faveAppLabel">App:</string>
+    <string name="faveAppData">unknown</string>
 </resources>

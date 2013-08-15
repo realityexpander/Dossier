@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/spawrks/Desktop/DossierProject/Dossier/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/spawrks/Desktop/DossierProject/Dossier/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
+    <string name="ageData">unknown</string>
+    <string name="ageLabel">Age:</string>
     <string name="app_name">Dossier</string>
+    <string name="faveAppData">unknown</string>
+    <string name="faveAppLabel">App:</string>
     <string name="nameData">unknown</string>
     <string name="nameLabel">Name:</string>
     <string name="title">Welcome to my Dossier.</string>
-    <!-- From: file:/Users/spawrks/Desktop/DossierProject/Dossier/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
