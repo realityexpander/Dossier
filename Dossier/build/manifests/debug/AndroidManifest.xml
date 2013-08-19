@@ -10,6 +10,8 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:label="@string/title_activity_apps_made" android:name="com.deltaprogram.lldossier.AppsMadeActivity">
+        </activity>
     </application>
 
 </manifest>

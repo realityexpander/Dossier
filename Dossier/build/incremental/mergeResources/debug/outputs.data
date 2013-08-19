@@ -1,13 +1,17 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1375927489000 1435 3dd2017b20099214ba5f8977cd6e7fea06db6e42 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values/values.xml
-1375828377000 1957 930a91fd0ea1df3a70bf535cdb9cad9bfe4056b0 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1376376479000 4111 43abbedf924450b37438cc976fcfb22fae142935 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/layout/activity_main.xml
-1375923920000 347 1d40073536cbc0ac6e05d488b429298fb410d972 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values-v14/values.xml
+1376881400000 4840 0ab9f3d75a28ce3468a478d01985ccc2eada5b51 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/layout/activity_main.xml
 1375923920000 361 25e0f1cda784f680b84da2c4ab972d433dde3b0b /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/menu/main.xml
-1375828377000 1314 8e4c432b2c372344c9ec58eb48170eda0c9b351d /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376888497000 1131 b866e25099b9e341e16e06daa06fce109d5dc2f3 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/layout/apps_i_have_made_row.xml
 1375828377000 788 a9f5dec04d40d1ce8c0c475b33a7603a39fdd157 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376683015000 76095 7f804bd398f0c4c5835d4f41203093cbc75a9b39 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-mdpi/chris_avatar.png
+1376688798000 366 d21f558304be3f12e392222192206226793b3e50 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/menu/apps_made.xml
+1375828377000 1091 169e254ede31b60fadaac00b2cd761c957fa0d7e /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376888800000 5047 1f648f73e9e79eaa4d06f32a8dfcacaf8bed0201 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values/values.xml
+1375828377000 1957 930a91fd0ea1df3a70bf535cdb9cad9bfe4056b0 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1375923920000 347 1d40073536cbc0ac6e05d488b429298fb410d972 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values-v14/values.xml
+1376888985000 1338 8938d98273f6683bb5f18cbfedbb2ed472b3cb21 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/layout/appsmade.xml
+1375828377000 1314 8e4c432b2c372344c9ec58eb48170eda0c9b351d /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1375923920000 333 83f8c915a4f914760e7e6e7b723c6bc7bf6df339 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values-v11/values.xml
 1375923920000 264 d9940ce7f3eabdfc006119cad16228197889c6fe /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/values-sw720dp-land/values.xml
-1375828377000 1091 169e254ede31b60fadaac00b2cd761c957fa0d7e /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/all/debug/drawable-hdpi/ic_launcher.png

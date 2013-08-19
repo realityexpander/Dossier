@@ -1,17 +1,22 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1376379351000 455 8e49e166ad47870660404e4510c0b0a925e273fa /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$style.class
-1375924685000 431 df259b81cbf45345b074b030a193861b37519007 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$drawable.class
-1376379351000 718 b96424b7e969329c59fe9b67cfe244ebec41b299 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$id.class
-1376379351000 427 1f3357e3fa8683cbac5fbcd4263ebcd155511db4 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$layout.class
+1376886856000 455 49afc070164ba8b525dc69640841e7afb0aeb39e /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$style.class
+1376903034000 2647 6da2cd713d333192706c5ca16be73d624251e294 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/AppsMadeActivity.class
+1376684280000 467 9d84abfced54d9acc37e5d43cc698e96479de0ec /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$drawable.class
+1376886856000 503 d0e125f5710aa1226e6ec9a6352d8bbf26cc7c29 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$layout.class
+1376886600000 2250 184d7d0686509814a6284cf86b267a1d5c8a4d0f /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/AppsAdapter.class
+1376886600000 821 71e615a8809743fc174481c9583604825537cdd7 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$id.class
+1376903034000 2407 769d19b991143c805189849118e553bf8202ce10 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/AppsMadeActivity$1.class
+1376886856000 445 81d4a9eae2699b187089583d5ae6d925446276cb /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$menu.class
 1375924685000 361 964caab1044dc6a6fce589934e29b833a9d9edc0 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/BuildConfig.class
 1375926247000 1731 2832a164abbf30643c11231271c17dfadfbeea20 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/Person.class
-1376379351000 412 ac8e59ab13c1d552509fdeffe28dab6b6ac0be7e /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$menu.class
+1376887912000 1426 4263491b8947de9e1cc3e47b09c0f7610e9ddc60 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/AppsIHaveMade.class
 1375924685000 364 2ed1519f671b78da4dcab63ce0744e0392a162e1 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$attr.class
-1376379351000 757 fa1ccc72ec37098e5cb484dec2797b21d285704b /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R.class
-1376379351000 1283 2e20f09b887b70a00448825a8f1678c2bca91556 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/MainActivity$1.class
+1376886856000 757 1c8327b623d2a2afb7864c0498f8e1ad37e250cd /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R.class
+1376886600000 504 91bdd361d68c6bc77e8357a0bb3f80992766cd52 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/AppsAdapter$PlaceHolder.class
+1376886600000 1141 f4870c1b211a381b767d32054f3cf9439cff5984 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/MainActivity$1.class
 1374256625000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
-1376379351000 689 9478b7c00e1e03915154d09aea12cb0004677d14 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$string.class
-1376379351000 2641 d3a14d6f6a8ea1f8ffe0c022891220ba9351601e /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/MainActivity.class
+1376886856000 808 e310a077f9eb5d6a9d7cab7cbb622ffcc5b44b82 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$string.class
+1376886856000 2579 8824052dd5d8bcfc77576ba85115779ff4e99fac /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/MainActivity.class
 1375924685000 485 c1161b286d5cd3194f879630bc1fcdf360a9c057 /Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/classes/debug/com/deltaprogram/lldossier/R$dimen.class

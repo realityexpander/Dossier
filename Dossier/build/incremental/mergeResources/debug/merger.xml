@@ -50,17 +50,23 @@
                 </string>
                 <string name="action_settings" >Settings
                 </string>
+                <string name="title_activity_apps_made" >Click on an app
+                </string>
                 <string name="ageLabel" >Age:
                 </string>
                 <string name="nameLabel" >Name:
                 </string>
                 <string name="faveAppLabel" >App:
                 </string>
-                <string name="app_name" >Dossier
-                </string>
                 <string name="title" >Welcome to my Dossier.
                 </string>
+                <string name="app_name" >Dossier
+                </string>
                 <string name="ageData" >unknown
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="synopsisText" >Chris was born a poor young child in the rural woods of Maine, essentially raised by wolves, scrounging on berries and worms, its a miracle he made it through childhood. This was not the first of many miracles in Chris\'s life.\n\nHe was never much into sports, although he did dabble in swimming, tree climbing, biking, gardening, soccer and pig scrambling. Of all the stated activities the pig scrambling is the only one to come in handy, as strange as that sounds, in the form of software project management. More about that later. The others stayed simple leisurely time-wasters and "good for nuthin" as his mother was oft to remind him.\n\nHe has had a long interest in everything electronic and computer ranging from robotics, communications, device-drivers, LEDs, games, video editing, high-voltage flyback capacitors, visual effects, video pre-production, production and post-production, among other things. He won his high school science fair while still in junior high. His parents were asked how much assistance they had given him and they, being very blue collar quickly admitted that they had no idea I was even entering the competition until the night before when I had asked for a ride to school. True story.\n\nHe graduated high-school a year early, with much behind-the-scenes political negotiations. Im pretty sure there were some greased palms, but Ill never know for sure, or by whom. Im pretty sure the principal was glad to see me go. Anyway, he went on to study computer science and other barroom skills at several colleges including UTSA, UCSD, Montgomery college and Clairemont college. After about 5 years of collegiate meandering, he decided he had enough of the slow-burn of college life, and entered into the business world at one of the first desktop publishing software companies Silicon Beach Software in San Diego. What got his foot in the door was a casino craps game for the PC that he wrote for $500 on basically a bet. He won that bet, and won big. There he did two years of phone technical support on macintosh products and taught himself Macintosh and Windows programming. He liked the Mac much more and stuck with that platform, in the face of daunting odds.\n\nHaving a taste of the start-up software industry, he decided to move to San Francisco and work for a graphics software company called Xaos Tools, and produced plug-in software for Adobe Photoshop. The products he worked on there won several industry awards. After the opportunities (i.e.: funding) ran out there, he decided to try his hand at his own software company, and he started his experiments in the business with shareware, producing games and tools.\n\nHe started by creating After Effects plug-ins and found a strong demand in that niche. He took the hint and started a company creating motion-graphics tools for After Effects, Premiere and Final Cut. Having found success in that endeavor as well as industry accolades, he decided it was time for yet another change, and decided to sell the company and take an short retirement and explore psychology, consciousness, yoga, diet and physical fitness. He also explored the music festival culture and other subcultures. He married and quickly divorced a taiwanese exotic dancer. Hey, we all make mistakes. Ahhhh youth…\n\nAfter seeing a TED video called Abundance, he decided it was time to return to software development in the form of Android Apps.\n\nAnd here is where you found him.
                 </string>
             </file>
             <file
@@ -113,6 +119,26 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="chris_avatar"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/drawable-mdpi/chris_avatar.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="appsmade"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/layout/appsmade.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="apps_made"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/menu/apps_made.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="apps_i_have_made_row"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/src/main/res/layout/apps_i_have_made_row.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/realityexpander/Desktop/deltaprogram/playground/Dossier/Dossier/build/res/rs/debug" />
     </dataSet>

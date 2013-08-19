@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
 public class MainActivity extends Activity {
@@ -41,14 +42,12 @@ public class MainActivity extends Activity {
         mAPerson.setmNumApps(1);
         numApps = mAPerson.getmNumApps();
         mAPerson.setmAge(45);
-        mAPerson.setmFavoriteApp("GrossAnnoyingNoises.app");
+        mAPerson.setmFavoriteApp("BarTexter.app");
 
-        String actualDisplayString = mAPerson.getmFirstName() + " " + mAPerson.getmLastName()+ ", "
-+ mAPerson.getmNumApps() + " App(s) made.";
+        String actualDisplayString = mAPerson.getmFirstName() + " " + mAPerson.getmLastName();
 
         mDisplayName.setText(actualDisplayString);
         mDisplayName.setTextColor(Color.RED);
-
 
         actualDisplayString =  mAPerson.getmAge() + " years young.";
         mDisplayAge.setText(actualDisplayString);
@@ -58,26 +57,59 @@ public class MainActivity extends Activity {
         mDisplayFaveApps.setText(actualDisplayString);
         mDisplayFaveApps.setTextColor(Color.BLACK);
 
+
+
         //mMyLinearLayout = (LinearLayout) findViewById(R.layout.activity_main);
         //mButton = new Button(this);
         //mButton.setText("My new button)");
         //mMyLinearLayout.addView(mButton);
 
-        Button buttonToLaunchBarText = (Button) findViewById(R.id.launch_bartext);
+//        Button buttonToLaunchBarText = (Button) findViewById(R.id.launch_bartext);
+//        buttonToLaunchBarText.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                // ACTION_MAIN,
+//                //Intent i = new Intent(getApplicationContext(), AppsMade.class));
+//            try {
+//                Intent i = new Intent();
+//                i.setAction(Intent.ACTION_MAIN);
+//                i.setClassName("com.example.bartexter","com.example.bartexter.FullscreenActivity" );
+//                startActivity(i);
+//            } catch (Exception e)
+//                {
+//                    Toast.makeText(getApplicationContext(), "Could not load BarTexter app", Toast.LENGTH_SHORT).show();
+//
+//                }
+//            }
+//
+//        } );
 
-        buttonToLaunchBarText.setOnClickListener(new View.OnClickListener() {
+        Button buttonShowApps = (Button) findViewById(R.id.show_apps);
+
+        buttonShowApps.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // ACTION_MAIN,
-                //Intent i = new Intent(getApplicationContext(), com.example.bartexter.FullscreenActivity.class));
-                Intent i = new Intent();
-                i.setAction(Intent.ACTION_MAIN);
-                i.setClassName("com.example.bartexter","com.example.bartexter.FullscreenActivity" );
+                // Show APPS_MADE
+                Intent i = new Intent(getApplicationContext(), AppsMadeActivity.class);
                 startActivity(i);
-                finish();
             }
 
         } );
+
+//        Button buttonToast = (Button) findViewById(R.id.toast);
+//        buttonToast.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                try{
+//                    Intent i = new Intent("RibbleScrabble");
+//                    startActivity(i);
+//                    finish();
+//                } catch (Exception e)
+//                {
+//                    Toast.makeText(getApplicationContext(), "Could not load app", Toast.LENGTH_SHORT).show();
+//                }
+//            }
+//        });
 
     }
 
